@@ -1,0 +1,42 @@
+Portfolio Tracker
+
+Modules:
+- UI for end user
+- Admin UI for adding asset types or API's etc
+- API's for market data (twelvedata, Alpha Vantage, NASDAQ, Reuters)
+- API for analyst recs (NASDAQ?)
+- Database for holdings:
+    Holdings
+    Dates of interest
+
+Alpha Vantage:
+- Historical stock data
+- Current stock data
+- FOREX
+- Crypto (ew)
+- 25 requests per day
+
+Twelve Data:
+- Historical stock data
+- Current stock data
+- FOREX
+- Crypto (ew)
+- 8 requests per minute
+
+UI Design: Figma (god why), blue colour scheme
+
+Analytics:
+- Current price
+- Averages of some kind ? 
+- Asset allocation
+- Performance by sector and by region?
+- Holdings data:
+    Symbol
+    Name
+    Shares
+    Value
+    Total Gain/Loss
+    EAR (continuous compounding)
+    Day Change
+    Allocation
+- 
