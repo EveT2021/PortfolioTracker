@@ -1,9 +1,10 @@
 import json
+
 import pytest
 
 from backend.app import create_app, db
-from backend.app.models import User, AssetType, Portfolio
 from backend.app.config import TestConfig
+from backend.app.models import AssetType, Portfolio, User
 
 
 @pytest.fixture()

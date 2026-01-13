@@ -1,6 +1,6 @@
 from datetime import datetime
-from . import db
 
+from . import db
 
 # Keep models aligned with design.txt and db__schema.sql
 
